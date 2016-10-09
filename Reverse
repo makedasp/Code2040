@@ -1,0 +1,2 @@
+String token = fe51f0ab89f32b551b8baa8632c0001c;
+String toReverse = http://challenge.code2040.org/api/reverse?token = token;
